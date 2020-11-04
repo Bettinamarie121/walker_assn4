@@ -38,5 +38,5 @@ head possible_voters.txt possible_votersnew.txt
 NUM=$(grep "yes" possible_votersnew.txt| wc -l)
 echo 'There are '$NUM' eligible voters!'
 #Note there are single quotes around the value of the variable “$NUM and the
-#statement
+#statemenf above
 
