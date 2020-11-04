@@ -1,4 +1,4 @@
-# walker_assn4
+# walker_assn4.sh
 # Assn4_Walker.sh
 
 #! /bin/bash#! /bin/bash
